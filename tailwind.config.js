@@ -5,7 +5,11 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        'edu-vic-wa-nt-beginner': ['Edu VIC WA NT Beginner', 'system-ui'],
+      },
+    }
   },
   plugins: [],
 }
