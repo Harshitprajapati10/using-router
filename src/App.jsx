@@ -1,30 +1,25 @@
 import Header from './components/Header'
 import { useState } from 'react';
-import { Routes, Route, useNavigate, useLocation } from 'react-router-dom';
 import { data } from './constants/index'
-import { v4 as uuidv4 } from 'uuid';
 
 function App() {
   const [currentPage, setCurrentPage] = useState(1);
-  const location = useLocation();
-  const navigate = useNavigate();
 
   const handlePrevious = () => {
     const newPage = currentPage === 1 ? 20 : currentPage - 1;
     setCurrentPage(newPage);
-    navigate(`/${newPage}`);
   };
 
   const handleNext = () => {
     const newPage = currentPage === 20 ? 1 : currentPage + 1;
     setCurrentPage(newPage);
-    navigate(`/${newPage}`);
   };
 
   return (
     <>
       <Header />
-      <Routes>
+      
+      {/* <Routes>
         {Array.from({ length: 20 }, (_, i) => (
           <Route
             key={uuidv4()}
@@ -49,7 +44,7 @@ function App() {
             }
           />
         ))}
-      </Routes>
+      </Routes> */}
     </>
   );
 }
