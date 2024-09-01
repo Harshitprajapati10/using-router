@@ -2,7 +2,7 @@ export const data = [
     [
         {
             q_id: 1,
-            ques: "Who won wc 24?",
+            ques: "Who won wc 24? earn all about how to imlement font using the API CSS code. A web font is any font used in a websites design that isnt installed by default on the end users device—a counterpart to a system font. Check out the articles below for more guidance:",
             A: "pak",
             B: "ind",
             C: "SA",

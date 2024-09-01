@@ -1,6 +1,7 @@
 import Header from './components/Header'
 import { useState } from 'react';
 import { data } from './constants/index'
+import Body from './components/Body';
 
 function App() {
   const [currentPage, setCurrentPage] = useState(1);
@@ -18,7 +19,7 @@ function App() {
   return (
     <>
       <Header />
-      
+      <Body paper = {data[0]} />
       {/* <Routes>
         {Array.from({ length: 20 }, (_, i) => (
           <Route

@@ -8,6 +8,7 @@ export default {
     extend: {
       fontFamily: {
         'edu-vic-wa-nt-beginner': ['Edu VIC WA NT Beginner', 'system-ui'],
+        'poppins': ["Poppins", 'sans-serif'],
       },
     }
   },
