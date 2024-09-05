@@ -230,117 +230,457 @@ export const data = [
     [
         {
             q_id: 1,
-            ques: "Who won wc 15?",
-            A: "pak",
-            B: "ind",
-            C: "SA",
-            D: "aus",
+            ques: "Which of the following musical instruments were played by the musicians such as Shakoor Khan and Pandit Ram Narayan ?",
+            A: "Sarangi",
+            B: "Shehnai",
+            C: "Guitar",
+            D: "Veena",
+            ans: "A"
+        },
+        {
+            q_id: 2,
+            ques: "According to IBEF 2021, the Indian pharmaceutical industry ranks ____ in the world on the basis of volume. ",
+            A: "9th",
+            B: "5th",
+            C: "11th",
+            D: "3rd",
             ans: "D"
         },
         {
-            q_id: 2,
-            ques: "Who won wc 11?",
-            A: "pak",
-            B: "ind",
-            C: "SA",
-            D: "aus",
-            ans: "B"
-        },
-        {
             q_id: 3,
-            ques: "Who won wc 07?",
-            A: "pak",
-            B: "aus",
-            C: "SA",
-            D: "ind",
-            ans: "B"
-        },
-    ],
-    [
-        {
-            q_id: 1,
-            ques: "Who won wc 03?",
-            A: "aus",
-            B: "ind",
-            C: "SA",
-            D: "pak",
+            ques: "When did Linus Carl Pauling receive the Nobel Prize in Chemisty for 'his research into the nature of the chemical bond and its applications to the elucidation of the structure of complex substances ?",
+            A: "1954",
+            B: "1950",
+            C: "1956",
+            D: "1958",
             ans: "A"
         },
         {
-            q_id: 2,
-            ques: "Who won wc 99?",
-            A: "pak",
-            B: "aus",
-            C: "SA",
-            D: "eng",
+            q_id: 4,
+            ques: "Daskathia of ____ if the tribal dance performed by two males depicting the historic and Puranic events.",
+            A: "Uttar Pradesh",
+            B: "Gujarat",
+            C: "Goa",
+            D: "Odisha",
+            ans: "D"
+        },
+        {
+            q_id: 5,
+            ques: "KA Najeeb Vs Union of India case deals with violation of rights under ______",
+            A: "Article 16",
+            B: "Article 21",
+            C: "Aritcle 14",
+            D: "Article 19",
             ans: "B"
         },
         {
-            q_id: 3,
-            ques: "Who won wc 96?",
-            A: "pak",
-            B: "ind",
-            C: "SL",
-            D: "aus",
+            q_id: 6,
+            ques: "Which of following is the red algae ?",
+            A: "Rhodophyceae",
+            B: "Chlorophyceae",
+            C: "Liverwort",
+            D: "Phaeophyceae",
+            ans: "A"
+        },
+        {
+            q_id: 7,
+            ques: "What will be the atomic number of an element X which is placed in period 2 and group 17 ?",
+            A: "8",
+            B: "7",
+            C: "10",
+            D: "9",
+            ans: "D"
+        },
+        {
+            q_id: 8,
+            ques: "In which two consecutive years was there no chief guest at the Republic Day celebrations of India ?",
+            A: "2021 and 2022",
+            B: "2019 and 2020",
+            C: "2020 and 2021",
+            D: "2018 and 2019",
+            ans: "A"
+        },
+        {
+            q_id: 9,
+            ques: "Fisher's quantity theory is explained by his famous equation given as ______",
+            A: "MP = VT",
+            B: "MV = PT",
+            C: "MT = PV",
+            D: "PV = MV",
+            ans: "B"
+        },
+        {
+            q_id: 10,
+            ques: "Before the rise of modern industial system, Indian exports consisted chiefly of manufactures like _____",
+            A: "elecricals",
+            B: "chemicals",
+            C: "light machinery",
+            D: "cotton and silk fabrics",
+            ans: "D"
+        },
+        {
+            q_id: 11,
+            ques: "The kanchenjunga peak is located in which sub-division of Himalaya from the following ?",
+            A: "Kashmir Himalayas",
+            B: "Darjeeling and Sikkim Himalayas",
+            C: "Himachal and Uttaranchal Himalayas",
+            D: "Arunachal Himalayas",
+            ans: "B"
+        },
+        {
+            q_id: 12,
+            ques: "Guru Bipin Singh, a Nrityacharya awardee, Sangeet Natak Akademi awardee and Kalidas Samman awardee, was renowned for promoting which classical dance form ?",
+            A: "Manipuri",
+            B: "Kuchipudi",
+            C: "Odissi",
+            D: "Kathak",
+            ans: "A"
+        },
+        {
+            q_id: 13,
+            ques: "Who holds the authority for transferring judges form one High court to another High Court ?",
+            A: "The senior most judge of supreme court",
+            B: "The chief justice of India",
+            C: "The president of India",
+            D: "The law minister of India",
             ans: "C"
         },
-    ],
-    [
         {
-            q_id: 1,
-            ques: "Who won wc 92?",
-            A: "eng",
-            B: "pak",
-            C: "ind",
-            D: "aus",
-            ans: "B"
-        },
-        {
-            q_id: 2,
-            ques: "Who won wc 87?",
-            A: "ind",
-            B: "aus",
-            C: "pak",
-            D: "WI",
-            ans: "B"
-        },
-        {
-            q_id: 3,
-            ques: "Who won wc 83?",
-            A: "ind",
-            B: "WI",
-            C: "pak",
-            D: "aus",
-            ans: "A"
-        },
-    ],
-    [
-        {
-            q_id: 1,
-            ques: "Who won wc 79?",
-            A: "WI",
-            B: "ind",
-            C: "aus",
-            D: "eng",
+            q_id: 14,
+            ques: "_____ is the process of complete or incomplete oxidation or hydrolysis of fats and oils when exposed to air, light, moisture, or bacterial action that spoils food. ",
+            A: "Rancidification",
+            B: "Hydrogenation",
+            C: "Auto-oxidation",
+            D: "Auto reduction",
             ans: "A"
         },
         {
-            q_id: 2,
-            ques: "Who won wc 75?",
-            A: "aus",
-            B: "eng",
-            C: "WI",
-            D: "pak",
+            q_id: 15,
+            ques: "Which of the following is a Tibeto-Burmese language ?",
+            A: "Odia",
+            B: "Tripuri",
+            C: "Assamese",
+            D: "Tulu",
+            ans: "B"
+        },
+        {
+            q_id: 16,
+            ques: "Who among the following was the author of the play 'Mrichchhakatika' ?",
+            A: "Kalidasa",
+            B: "Amarasimha",
+            C: "Shudraka",
+            D: "Bhasa",
             ans: "C"
         },
         {
-            q_id: 3,
-            ques: "Which country has won the most cricket world cups?",
-            A: "ind",
-            B: "aus",
-            C: "pak",
-            D: "WI",
-            ans: "B"
+            q_id: 17,
+            ques: "Select the false statement from the given options (a)Baikal rocks are formed from the dissolved materials that precipitate from the solution. (b) The sedimentary rocks are formed by the deposition and subsequent cementation of that material within bodies of water and at the surface of the earth. (c) Metamorphic rocks may be formed by simply by being deep beneath the Earth's surface, subjected to high temperatures and the great pressure of the rock layers above it. (d) Igneous rocks is formed through the cooling and solidification of magma or lava.",
+            A: "a",
+            B: "b",
+            C: "c",
+            D: "d",
+            ans: "A"
         },
+        {
+            q_id: 18,
+            ques: "Pathans in North-West India organised the society of Khudai Khidmatgars, popularly known as Red Shirt, under whose leadership ?",
+            A: "Muhammad Ali",
+            B: "MA Ansari",
+            C: "Khan Abdul Ghaffar Khan",
+            D: "Hasrat Mohani",
+            ans: "C"
+        },
+        {
+            q_id: 19,
+            ques: "In which of the following state/Union Territories were the 36th National Games held ?",
+            A: "Rajasthan",
+            B: "New Delhi",
+            C: "Gujarat",
+            D: "Kerela",
+            ans: "C"
+        },
+        {
+            q_id: 20,
+            ques: "Which of the following was established in Bombay in 1875 ?",
+            A: "Satyashodhak samaj",
+            B: "Aligarh Samaj",
+            C: "Brahma Samaj",
+            D: "Arya Samaj",
+            ans: "D"
+        },
+        {
+            q_id: 21,
+            ques: "Which of the following options conveys the meaning of the word 'Republic' in the Indian constitution ?",
+            A: "Elected head",
+            B: "Nominated head",
+            C: "Subordinate head",
+            D: "Hereditary head",
+            ans: "A"
+        },
+        {
+            q_id: 22,
+            ques: "Who among the following was defeated in battle of chanderi in 1528 ?",
+            A: "Shershah Suri",
+            B: "Babur",
+            C: "Sikandar Lodi",
+            D: "Medini Rai",
+            ans: "D"
+        },
+        {
+            q_id: 23,
+            ques: "The Venue of the 2020 Olympic Games was _____",
+            A: "Sydney",
+            B: "Rio",
+            C: "Tokyo",
+            D: "Los Angeles",
+            ans: "C"
+        },
+        {
+            q_id: 24,
+            ques: "When was the international day of the Girl Child 2021 celebrated ?",
+            A: "14 October",
+            B: "12 October",
+            C: "13 October",
+            D: "11 October",
+            ans: "D"
+        },
+        {
+            q_id: 25,
+            ques: "In January 2022, which state Government has extended its integrated initiative for the empowerment of persons with disabilities(PwDs) -- the Bhima Bhoi Bhinnakhyama Samarthya Abhiyan (BBSA) - for next five years ?",
+            A: "Odisha",
+            B: "Manipur",
+            C: "Jharkhand",
+            D: "West Bengal",
+            ans: "A"
+        },
+        
     ],
+    // [
+    //     {
+    //         q_id: 1,
+    //         ques: "Which of the following musical instruments were played by the musicians such as Shakoor Khan and Pandit Ram Narayan ?",
+    //         A: "Sarangi",
+    //         B: "Shehnai",
+    //         C: "Guitar",
+    //         D: "Veena",
+    //         ans: "A"
+    //     },
+    //     {
+    //         q_id: 2,
+    //         ques: "",
+    //         A: "",
+    //         B: "",
+    //         C: "",
+    //         D: "",
+    //         ans: ""
+    //     },
+    //     {
+    //         q_id: 3,
+    //         ques: "",
+    //         A: "",
+    //         B: "",
+    //         C: "",
+    //         D: "",
+    //         ans: "C"
+    //     },
+    //     {
+    //         q_id: 4,
+    //         ques: "",
+    //         A: "",
+    //         B: "",
+    //         C: "",
+    //         D: "",
+    //         ans: "C"
+    //     },
+    //     {
+    //         q_id: 5,
+    //         ques: "",
+    //         A: "",
+    //         B: "",
+    //         C: "",
+    //         D: "",
+    //         ans: "C"
+    //     },
+    //     {
+    //         q_id: 6,
+    //         ques: "",
+    //         A: "",
+    //         B: "",
+    //         C: "",
+    //         D: "",
+    //         ans: "C"
+    //     },
+    //     {
+    //         q_id: 7,
+    //         ques: "",
+    //         A: "",
+    //         B: "",
+    //         C: "",
+    //         D: "",
+    //         ans: "C"
+    //     },
+    //     {
+    //         q_id: 8,
+    //         ques: "",
+    //         A: "",
+    //         B: "",
+    //         C: "",
+    //         D: "",
+    //         ans: "C"
+    //     },
+    //     {
+    //         q_id: 9,
+    //         ques: "",
+    //         A: "",
+    //         B: "",
+    //         C: "",
+    //         D: "",
+    //         ans: "C"
+    //     },
+    //     {
+    //         q_id: 10,
+    //         ques: "",
+    //         A: "",
+    //         B: "",
+    //         C: "",
+    //         D: "",
+    //         ans: "C"
+    //     },
+    //     {
+    //         q_id: 11,
+    //         ques: "",
+    //         A: "",
+    //         B: "",
+    //         C: "",
+    //         D: "",
+    //         ans: "C"
+    //     },
+    //     {
+    //         q_id: 12,
+    //         ques: "",
+    //         A: "",
+    //         B: "",
+    //         C: "",
+    //         D: "",
+    //         ans: "C"
+    //     },
+    //     {
+    //         q_id: 13,
+    //         ques: "",
+    //         A: "",
+    //         B: "",
+    //         C: "",
+    //         D: "",
+    //         ans: "C"
+    //     },
+    //     {
+    //         q_id: 14,
+    //         ques: "",
+    //         A: "",
+    //         B: "",
+    //         C: "",
+    //         D: "",
+    //         ans: "C"
+    //     },
+    //     {
+    //         q_id: 15,
+    //         ques: "",
+    //         A: "",
+    //         B: "",
+    //         C: "",
+    //         D: "",
+    //         ans: "C"
+    //     },
+    //     {
+    //         q_id: 16,
+    //         ques: "",
+    //         A: "",
+    //         B: "",
+    //         C: "",
+    //         D: "",
+    //         ans: "C"
+    //     },
+    //     {
+    //         q_id: 17,
+    //         ques: "",
+    //         A: "",
+    //         B: "",
+    //         C: "",
+    //         D: "",
+    //         ans: "C"
+    //     },
+    //     {
+    //         q_id: 18,
+    //         ques: "",
+    //         A: "",
+    //         B: "",
+    //         C: "",
+    //         D: "",
+    //         ans: "C"
+    //     },
+    //     {
+    //         q_id: 19,
+    //         ques: "",
+    //         A: "",
+    //         B: "",
+    //         C: "",
+    //         D: "",
+    //         ans: "C"
+    //     },
+    //     {
+    //         q_id: 20,
+    //         ques: "",
+    //         A: "",
+    //         B: "",
+    //         C: "",
+    //         D: "",
+    //         ans: "C"
+    //     },
+    //     {
+    //         q_id: 21,
+    //         ques: "",
+    //         A: "",
+    //         B: "",
+    //         C: "",
+    //         D: "",
+    //         ans: "C"
+    //     },
+    //     {
+    //         q_id: 22,
+    //         ques: "",
+    //         A: "",
+    //         B: "",
+    //         C: "",
+    //         D: "",
+    //         ans: "C"
+    //     },
+    //     {
+    //         q_id: 23,
+    //         ques: "",
+    //         A: "",
+    //         B: "",
+    //         C: "",
+    //         D: "",
+    //         ans: "C"
+    //     },
+    //     {
+    //         q_id: 24,
+    //         ques: "",
+    //         A: "",
+    //         B: "",
+    //         C: "",
+    //         D: "",
+    //         ans: "C"
+    //     },
+    //     {
+    //         q_id: 25,
+    //         ques: "",
+    //         A: "",
+    //         B: "",
+    //         C: "",
+    //         D: "",
+    //         ans: "C"
+    //     },
+        
+    // ],
 ];

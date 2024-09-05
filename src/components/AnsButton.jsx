@@ -14,7 +14,7 @@ const AnsButton = (props) => {
   return (
     <div 
       onClick={() => { verify() }} 
-      className={` w-[314px] lg:w-[1330px] min-h-[44px] py-1 lg:my-0 text-[16px] lg:text-[18px] font-poppins border-black-500 border-2 rounded-full 
+      className={` w-[314px] lg:w-[1330px] py-2 lg:my-0 text-[16px] lg:text-[18px] font-poppins border-black-500 border-2 rounded-full 
       ${isCorrect === true ? 'bg-green-500' : isCorrect === false ? 'bg-red-500' : 'bg-slate-400'}`}
     >
       <span className='relative left-[5px] top-[3px]' >({props.option}) </span>
